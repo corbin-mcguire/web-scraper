@@ -1,0 +1,19 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "The web scraper I should have made 4 years ago.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corbin-mcguire/web-scraper.git"
+  },
+  "author": "Corbin McGuire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corbin-mcguire/web-scraper/issues"
+  },
+  "homepage": "https://github.com/corbin-mcguire/web-scraper#readme"
+}
